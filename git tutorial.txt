@@ -1,0 +1,7 @@
+Commands:
+git init --> initialize the GIT folder (local)
+git config --global user.name 'Minh Tran' --> set username for folder
+git rm --cached <fileName> --> unstage file before commit
+git status --> check status of all files before committing
+git commit --> open the VIM editor, to type, enter "i" to get to Insert mode, then type. To escape out of VIM editor, enter ":wq" 
+git add . :this will add all files to the staging area
